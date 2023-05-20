@@ -1,0 +1,41 @@
+body {
+	background-color: #2A3357;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}	
+	
+table th{
+	color: white;
+	list-style: none;
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+h1{
+	color: #FC7844;
+}	
+
+h2{
+	color: #FC7844;
+}	
+
+
+p{
+	color: white;
+}	
+
+.aku{
+	position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+footer {
+    text-align:center;
+}
