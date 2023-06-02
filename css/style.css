@@ -1,0 +1,59 @@
+body {
+	background-color: #121626;    /* barva ozadja */
+}
+
+a{
+	color: white;       /* barva besedila */
+	text-decoration: none;     /* brez črte spodaj na povezavi */
+}	
+	
+table th{
+	color: white;
+	list-style: none;
+	border-left: 1px solid white;     /* vmesne čtre */
+	border-right: 1px solid white;
+	text-align: center;    /* besedilo na sredini */
+	padding-left: 20px;      /* odmik od roba */
+	padding-right: 20px;
+	font-family: Cuprum;    /* oblika pisave */
+	font-size: 22px;    /* velikost pisave */
+}	
+
+h1{
+	color: #FC7844;    /* barva besedila */
+	font-family: Bangers;
+	font-size: 45px;
+	letter-spacing: 3px;   /* razmik med črkami */
+}	
+
+h2{
+	color: #21916A;
+	font-family: Bangers;
+	font-size: 30px;
+	letter-spacing: 3px;
+}	
+
+
+p{
+	color: white;
+	font-family: Cuprum;
+	font-size: 22px;
+}	
+
+
+.logo{
+	float: right;    /* na desni, če je premalo prostora se premakne dol */
+	padding-right: 200px;
+}
+
+.aku{
+	position: absolute;    /* pozicija slike */
+    top: 35px;
+    right: 35px;
+}
+
+footer {
+    text-align:center;
+}
+
+
